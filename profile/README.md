@@ -16,9 +16,8 @@ we're building an AI-powered development platform that combines intelligent proj
 
 ## community
 
-- **feedback**: [github.com/ATXVibeCoder/Vibe-Coder](https://github.com/ATXVibeCoder/Vibe-Coder) - report bugs, request features
 - **email**: [hi@vibe-coder.com](mailto:hi@vibe-coder.com)
-- **discord**: coming soon
+- **discord**: [join here!](https://discord.gg/ZXtushcrdF)
 
 ---
 
